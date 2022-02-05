@@ -1,18 +1,12 @@
-Merhaba,
-ODTÜ aracılığı ile Bilgisayar Teknolojileri eğitimi alıyorum;
-Python ile Bilgisayar Sistemleri ve Yapıları,
-Java ile Programcılığına Giriş,
-Java ile Veri Yapıları ve Algoritmalar,
-Unix ile İşletim Sistemleri,
-Linux vb.
-Veritabanı Yönetim Sistemleri,
-Yazılım Mühendisliği,
-Web Programlama,
+Hello, 
 
-Ve bu süreçteki denemelerimi paylaşıyorum.
-Destekleriniz için şimdiden teşekkürler.
+I am a banker and a web development student.
 
-<!---
-durmazmerve/durmazmerve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am in Computer Technologies education with METU tool; Computer Systems and Structures with Python, Introduction to Programming with Java, Data Structures and Algorithms with Java, Operating Systems with Unix, Linux etc. Database Management Systems, Software Engineering, Web Programming
+
+and,
+
+Marmara University - MBA
+I am a student at Istanbul University - Management Information Systems.
+
+And this is where I share my experiments. Thanks in advance for your support.
