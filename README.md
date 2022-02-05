@@ -6,7 +6,8 @@ I am in Computer Technologies education with METU tool; Computer Systems and Str
 
 and,
 
-Marmara University - MBA
+Marmara University - MBA,
+
 I am a student at Istanbul University - Management Information Systems.
 
 And this is where I share my experiments. Thanks in advance for your support.
